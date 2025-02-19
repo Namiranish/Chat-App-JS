@@ -2,7 +2,7 @@
 
 Welcome to Talkio, a modern chatting app designed to connect people seamlessly.
 
-![Talkio Cover Image](./talkio.png)
+![Talkio Cover Image](./TALKio.png)
 
 ## About
 
