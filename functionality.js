@@ -1,4 +1,3 @@
-// Function to create UI for user List ....................
 function createUserList({ avatar, name, time }, index) {
   const newuser = document.createElement("div");
   if (index === 0) {

@@ -1,5 +1,17 @@
 @import url("./variable.css");
 
+:root {
+  --online: #28A745; /* Professional green for online status */
+  --my-mssg: #007BFF; /* Corporate blue for messages */
+  --text-light: #6C757D; /* Muted gray for subtle text */
+  --text-dark: #343A40; /* Deep gray for better contrast */
+  --selected-chat: #E9ECEF; /* Light gray for selected chat */
+  --border: #DEE2E6; /* Softer border color */
+  --text-white: #FFFFFF; /* Keeping white text */
+  --background-img: url("https://images.unsplash.com/photo-1531297484001-80022131f5a1"); /* Subtle, sleek background */
+}
+
+
 * {
   margin: 0;
   padding: 0;
@@ -182,7 +194,7 @@ header {
 }
 
 .current_avatar {
-  width: 20%;
+  width: 10%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -199,6 +211,7 @@ header {
   width: 100%;
   border-radius: 50%;
   border: 2px solid var(--border);
+
 }
 
 .online {
