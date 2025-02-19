@@ -22,7 +22,7 @@ function createUserList({ avatar, name, time }, index) {
         <p class="time">${time}</p>
       </div>
       <p class="highlights">
-        Lorem, ipsum dolor sit amet consectetur...
+        Hey!!
       </p>
     </div>
   </div>`;
