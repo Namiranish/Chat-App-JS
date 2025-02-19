@@ -8,7 +8,7 @@ Welcome to Talkio, a modern chatting app designed to connect people seamlessly.
 
 Talkio allows users to chat in real-time, share media, and connect with friends and family effortlessly.
 
-Check out the live demo [here](https://chat-app-js-namira.vercel.app/).
+Check out the live demo [here](https://chat-app-js-namirahh.vercel.app/).
 
 ## Technologies Used
 
